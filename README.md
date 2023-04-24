@@ -23,12 +23,9 @@
 
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
-> I’m an open-minded person seeking a position in the field of
-mobile development, where I can apply my knowledge and skills for continuous improvement. I really want to work and learn. Ready to any proposal!
+> I specialized in Full-stack mobile & Web development. I enjoy working with React Native, Flutter, React Angular, Node, MySQL, MongoDB, Firebase, and AWS. My greatest strengths are professional- ism, prompt communication, and adaptability.
 
-- 😄 Pronouns me as `/aus-tin/`
 - 📱 Mobile Developer (Flutter & React Native & Native iOS)
-- 🎓 Graduate of [The University of Texas at Austin](https://www.utexas.edu/)
 
 <br><br><br><br>
 
@@ -36,16 +33,18 @@ mobile development, where I can apply my knowledge and skills for continuous imp
 
 <div align="center">
 <!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-4_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-4_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-5_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-5_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-5_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Native_iOS-7_years-000000?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-7_years-000000?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-3_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Javascript-8_years-61DAFB?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-5_years-61DAFB?style=flat-square&logo=node.js&logoColor=black" />
 <img src="https://img.shields.io/badge/Agile-4_years-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-3_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-4_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-3_years-FFD43B?style=flat-square&logo=appstore&logoColor=black"/>
-<img src="https://img.shields.io/badge/firebase-5_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
-<img src="https://img.shields.io/badge/Git-5_years-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-6_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
+<img src="https://img.shields.io/badge/Git-7_years-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-3_years-00aeff?style=flat-square&logo=microsoft%20azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-3_years-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-4_years-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -54,89 +53,33 @@ mobile development, where I can apply my knowledge and skills for continuous imp
 </div>
 
 
-<br><h2 align="center"> Education 🎓</h2>
-
-### THE UNIVERSITY OF TEXAS AT AUSTIN `2005 - 2010`
-> BACHELOR
-
-Graduated from faculty of Computer Science and Technology,
-and gain the Bachelor’s Degree of Computer Science.
-
 <br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
 
-### MOBILE DEVELOPER `JUN'20...`
-> TREFLA
+### Unmanned Systems Source, LLC `Aug 2020 - Jan 2023`
+> SR.Mobile Developer
 
-As a main developper, I built android and iOS applications with Flutter and lead other developers.
-- Post and comment system
-- Real-time chat and push notification
-- Custom profiling
-- Social service integration including youtube
+    • Supervised and lead a team of 2 mobile developers during the development of upgrade version of the company’s mobile applications
+    • Enhanced the application’s features to effectively fix the bugs and optimize the overall performance, reliability and efficiency.
+    • Coding, unit testing and debugging applications in various software languages such as React Native, Node.js and Jest
+    • Coordinating with architecture group on new designs and foundational/infrastructural applications changes
+    • Full lifecycle application development using standard frameworks and coding standards/patterns.
 
-### MOBILE DEVELOPER `FEB'20 - MAR'20`
-> FIRST CHESAPEAKE
+### Yotta saving LLC `Jul 2019 - Aug 2020`
+> Full-Stack Developer
 
-In this position, I built and contributed to the development of several mobile
-applications, including Expin and PodNetwork, etc.
-- Flutter, React Native, Swift, Java, Node.js MongoDB, AWS, BLE, php, Firebase
-- Real-time position track and notification
-- Several payment gates integration including paypal, apple pay, google pay, etc.
-- Real-time communication using websocket
-- Backend development using node.js and mongoDB
+    • Worked on mobile and backend development using react-native and node.js
+    • Coding, unit testing and debugging applications in various software languages such as React Native, Node.js and Jest
+    • Analyzing user stories and participating in sprint planning, scrums, demos and retrospectives
+    • Staying in the loop and on top of the latest standards, changes, trends in the mobile design field
+    • AppStore: https://apps.apple.com/us/app/yotta-banking-but-fun/id149764777
 
-### MOBILE DEVELOPER `APR'11 - JAN'17`
+### OneNeighbor Inc `May 2015 - Jul 2019`
 > SELF-EMPLOYED
 
-I built several applications and upgraded my skills as a mobile developer.
-- React Native and native iOS
-- PHP, MySQL, Node.js, MongoDB
-- RestApi, GraphQL, WebSocket
-- In-app payment and chat
-- Social integration, geolocation, push notification
-- Firebase, AWS, Azure
+    • Worked on mobile application development using react-native
+    • Collaborate with UX designers, Bas, QA engineers, and product owners to develop continuous product enhancements and releases
+    • AppStore: https://apps.apple.com/us/app/oneneighbor/id1551432157?app=itunes&ign- mpt=uo%3D4
 
-
-<br><h2 align="center"> Projects 🚀</h2>
-
-### Trefla
-> Trefla is popular app to connect with around users. A user can create posts for date and SOS, etc. Users can connect and chat with around users. Also, user can customize his profile page and play youtube or other video without ads. Using match function, users can enjoy together.
-> <br><br>
-> <img align="center" alt="App" src="https://i.imgur.com/Yegf1ru.png" height="auto" />
-> <br><br>
-> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
-[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/cn/app/trefla/id1550695660?l=en) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US)
-
-<br>
-
-### Expin
-> Expin is for booking services. User can search and book hotels, travel places, etc
-> <br><br>
-> <img align="center" alt="App" src="https://i.imgur.com/Qxf3sgr.png" height="auto" />
-> <br><br>
-> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
-[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/ph/app/expin-influencer-marketing/id1484450218) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.expinapp)
-
-<br>
-
-### PodNetwork
->  PodNetwork support to explore and discover, and connecct with local peoples. Also PodNetwork support pod map and discover people, and events and opportunities.
-> <br><br>
-> <img align="center" alt="App" src="https://i.imgur.com/bvwDWH1.png" height="auto" />
-> <br><br>
-> Technologies: `React Native`, `Java`, `Swift`, `node.js`, `google map`, `rest api`, `real time chat`, `firebase`, etc 
-<br><br>
-[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/pod-network/id1481372679) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=io.pod.app)
-
-<br>
-
-### TododeUsa
->   TododeUsa is for shopping and tracking packages.
-> <br><br>
-> <img align="center" alt="App" src="https://i.imgur.com/P0VyX5r.png" height="auto" />
-> <br><br>
-> Technologies: `React Navtive`, `Java`, `Swift`, `php`, `google map`, `rest api`, `push notification firebase`, etc., etc
-<br><br>
-[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/tododeusa/id1475409048?l=es) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.tododeusa)
 
 <br>
 
@@ -151,7 +94,7 @@ I built several applications and upgraded my skills as a mobile developer.
 </div>
 <br>
 
-<p align="center">Open Source Contributor from <b>Texas, Austin</p>
+<p align="center">Open Source Contributor</p>
 <div align="center"><br>
 <p><a href="https://www.buymeacoffee.com/oniangel12933"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
 </div>
