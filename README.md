@@ -55,30 +55,26 @@
 
 <br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
 
-### Unmanned Systems Source, LLC `Aug 2020 - Jan 2023`
+### Trefla `Jun 2020 - Present`
 > SR.Mobile Developer
 
-    • Supervised and lead a team of 2 mobile developers during the development of upgrade version of the company’s mobile applications
-    • Enhanced the application’s features to effectively fix the bugs and optimize the overall performance, reliability and efficiency.
-    • Coding, unit testing and debugging applications in various software languages such as React Native, Node.js and Jest
-    • Coordinating with architecture group on new designs and foundational/infrastructural applications changes
-    • Full lifecycle application development using standard frameworks and coding standards/patterns.
+    • As the main developer, I built android and iOS applications with Flutter and lead other developers.
+    • PlayStore: https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US&pli=1
 
-### Yotta saving LLC `Jul 2019 - Aug 2020`
-> Full-Stack Developer
+### OneNeighbor, Inc `Feb 2017 - Mar 2020`
+> Mobile Developer
 
     • Worked on mobile and backend development using react-native and node.js
     • Coding, unit testing and debugging applications in various software languages such as React Native, Node.js and Jest
     • Analyzing user stories and participating in sprint planning, scrums, demos and retrospectives
     • Staying in the loop and on top of the latest standards, changes, trends in the mobile design field
-    • AppStore: https://apps.apple.com/us/app/yotta-banking-but-fun/id149764777
-
-### OneNeighbor Inc `May 2015 - Jul 2019`
-> SELF-EMPLOYED
-
-    • Worked on mobile application development using react-native
-    • Collaborate with UX designers, Bas, QA engineers, and product owners to develop continuous product enhancements and releases
     • AppStore: https://apps.apple.com/us/app/oneneighbor/id1551432157?app=itunes&ign- mpt=uo%3D4
+
+### Upwork `May 2011 - Jan 2017`
+> Mobile Developer
+
+    • Worked on mobile applications development using swift, react-native
+    • AppStore: https://apps.apple.com/ph/app/expin-influencer-marketing/id1484450218
 
 
 <br>
