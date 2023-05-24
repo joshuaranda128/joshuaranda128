@@ -36,8 +36,8 @@
 <img src="https://img.shields.io/badge/Flutter-5_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-5_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Dart-5_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Native_iOS-7_years-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-7_years-000000?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Native_iOS-10_years-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-10_years-000000?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-8_years-61DAFB?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-5_years-61DAFB?style=flat-square&logo=node.js&logoColor=black" />
 <img src="https://img.shields.io/badge/Agile-4_years-147EFB?style=flat-square&logo=xcode&logoColor=white" />
