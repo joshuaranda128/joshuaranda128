@@ -2,11 +2,11 @@
 
 ![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=oniangel12933.oniangel12933) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/oniangel12933?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/oniangel12933?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/oniangel12933/fluttercapsule?style=social"> 
 
-[![Nominate @oniangel12933 as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@oniangel12933-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
+<!-- [![Nominate @oniangel12933 as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@oniangel12933-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
 
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/oniangel12933/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/austin-oh-1b8874121/">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
 <a href="https://www.buymeacoffee.com/oniangel12933">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
-</div>
+</div> -->
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
