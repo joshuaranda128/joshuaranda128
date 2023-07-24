@@ -23,9 +23,8 @@
 
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
-> I specialized in Full-stack mobile & Web development. I enjoy working with React Native, Flutter, React Angular, Node, MySQL, MongoDB, Firebase, and AWS. My greatest strengths are professional- ism, prompt communication, and adaptability.
+> I specialized in Full-stack mobile & Web development. I enjoy working with ReactJS, AngularJS, Java ExpressJS, NodeJS, React Native, Flutter, MySQL, MongoDB, Firebase, and AWS. My greatest strengths are professional- ism, prompt communication, and adaptability.
 
-- 📱 Mobile Developer (Flutter & React Native & Native iOS)
 
 <br><br><br><br>
 
@@ -33,59 +32,40 @@
 
 <div align="center">
 <!-- <p align="center"></p> -->
+<img src="https://img.shields.io/badge/React-7_years-02569B?style=flat-square&logo=react&logoColor=green" />
+<img src="https://img.shields.io/badge/NodeJS-8_years-02569B?style=flat-square&logo=node&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-12_years-02569B?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-5_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-5_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Dart-5_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Native_iOS-10_years-000000?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-10_years-000000?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Javascript-8_years-61DAFB?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-5_years-61DAFB?style=flat-square&logo=node.js&logoColor=black" />
-<img src="https://img.shields.io/badge/Agile-4_years-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-4_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-3_years-FFD43B?style=flat-square&logo=appstore&logoColor=black"/>
-<img src="https://img.shields.io/badge/firebase-6_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
+<img src="https://img.shields.io/badge/Javascript-10_years-61DAFB?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-9_years-61DAFB?style=flat-square&logo=node.js&logoColor=black" />
+<img src="https://img.shields.io/badge/Agile-6_years-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-5_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-5_years-FFD43B?style=flat-square&logo=appstore&logoColor=black"/>
+<img src="https://img.shields.io/badge/firebase-8_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
 <img src="https://img.shields.io/badge/Git-7_years-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-3_years-00aeff?style=flat-square&logo=microsoft%20azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-3_years-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-4_years-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-4_years-00aeff?style=flat-square&logo=microsoft%20azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-5_years-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-6_years-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniangel12933&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
+<!-- <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniangel12933&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div> -->
 
 
-<br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
-
-### Trefla `Jun 2020 - Present`
-> SR.Mobile Developer
-
-    • As the main developer, I built android and iOS applications with Flutter and lead other developers.
-    • PlayStore: https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US&pli=1
-
-### OneNeighbor, Inc `Feb 2017 - Mar 2020`
-> Mobile Developer
-
-    • Worked on mobile and backend development using react-native and node.js
-    • Coding, unit testing and debugging applications in various software languages such as React Native, Node.js and Jest
-    • Analyzing user stories and participating in sprint planning, scrums, demos and retrospectives
-    • Staying in the loop and on top of the latest standards, changes, trends in the mobile design field
-    • AppStore: https://apps.apple.com/us/app/oneneighbor/id1551432157?app=itunes&ign- mpt=uo%3D4
-
-### Upwork `May 2011 - Jan 2017`
-> Mobile Developer
-
-    • Worked on mobile applications development using swift, react-native
-    • AppStore: https://apps.apple.com/ph/app/expin-influencer-marketing/id1484450218
 
 
 <br>
 
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
-<div align="center">
+<!-- <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=oniangel12933&theme=dark&hide_title=true&include_all_commits=true"/>
-</div><br>
-<div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=oniangel12933"> <br><br> 
+</div><br> -->
+<!-- <div align="center">  
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=oniangel12933"> <br><br>  -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=oniangel12933&margin-w=15&margin-h=15" />
 </div>
 <br>
